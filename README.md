@@ -4,7 +4,9 @@
 - 👀 I’m interested in listening to music and playing sports.
 - 📫 You can reach me by E-mail
     acs1113@naver.com
-
+- 📫 You can also reach me by E-mail
+    chiseungahn96@gmail.com
+    
 <!---
 ChiseungAhn/ChiseungAhn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
